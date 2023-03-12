@@ -189,7 +189,7 @@ build test_autogen/timestamp test_autogen/mocs_compilation.cpp | ${cmake_ninja_w
 #############################################
 # Phony custom command for CMakeFiles/test_autogen_timestamp_deps
 
-build CMakeFiles/test_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/test_autogen_timestamp_deps: phony /usr/lib/libQt6Core.so.6.4.2 /usr/lib/qt6/moc /usr/lib/libQt6Widgets.so.6.4.2 /usr/lib/qt6/uic
+build CMakeFiles/test_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/test_autogen_timestamp_deps: phony /usr/lib/qt6/uic /usr/lib/libQt6Widgets.so.6.4.2 /usr/lib/qt6/moc /usr/lib/libQt6Core.so.6.4.2
 
 
 #############################################
