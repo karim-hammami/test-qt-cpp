@@ -6,6 +6,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    int i;
+    printf("hey this a test");
 }
 
 MainWindow::~MainWindow()
