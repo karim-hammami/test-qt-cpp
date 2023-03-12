@@ -1,0 +1,9 @@
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/test.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/install.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/install/local.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/test_autogen_timestamp_deps.dir
+/home/station/personal/test-qt-cpp/build-test-Desktop-Debug/CMakeFiles/test_autogen.dir
